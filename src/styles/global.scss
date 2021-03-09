@@ -1,4 +1,4 @@
-$color: #4053;
+$color: #121214;
 
 * {
   margin: 0;
@@ -7,9 +7,8 @@ $color: #4053;
 }
 
 body {
-  font-family: Arial, Helvetica;
-  background-color: $color;
-  h1 {
-    font-size: 80px;
-  }
+  font-size: 16px;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  color: $color;
+   
 }
